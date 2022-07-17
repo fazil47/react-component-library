@@ -1,7 +1,10 @@
 {
-  "name": "react-component-library",
+  "name": "@fazil47/react-component-library",
   "version": "1.0.0",
-  "description": "A React component library",
+  "description": "A React component library.",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/fazil47"
+  },
   "scripts": {
     "rollup": "rollup -c"
   },
