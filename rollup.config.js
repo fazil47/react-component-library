@@ -40,6 +40,7 @@ export default [
       }),
       terser(),
     ],
+    external: ["react"],
   },
   {
     input: "dist/esm/types/index.d.ts",
