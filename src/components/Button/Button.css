@@ -1,4 +1,4 @@
-button {
+.button {
   font-size: 60px;
   @apply bg-blue-200;
 }
